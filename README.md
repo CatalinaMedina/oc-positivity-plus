@@ -21,7 +21,7 @@ Scott M. Bartell: sbartell@uci.edu
 Bernadette Boden-Albala: bbodenal@hs.uci.edu
 
 ## Content  
-This project's paper is currently being submitted. It can currently be found [here](https://urldefense.com/v3/__https://medrxiv.org/cgi/content/short/2021.01.13.21249507v1__;!!OLgoXmg!Clp7nEeBQo3Iozo1Oow4JwYpfZaXHAEiS77C1ZdH6QIKXUX_8GDZx_UE_WGPQ1Ygng$). 
+Published in [Emerging Infectious Disease](https://wwwnc.cdc.gov/eid/article/27/10/21-0103_article). 
 
 The model equations, graphs, and tables for the analyses performed can be found:  
 
